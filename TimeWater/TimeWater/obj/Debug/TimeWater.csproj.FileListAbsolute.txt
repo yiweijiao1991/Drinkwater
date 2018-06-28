@@ -1,0 +1,10 @@
+F:\wokspace\定时\TimeWater\TimeWater\bin\Debug\TimeWater.exe.config
+F:\wokspace\定时\TimeWater\TimeWater\bin\Debug\TimeWater.exe
+F:\wokspace\定时\TimeWater\TimeWater\bin\Debug\TimeWater.pdb
+F:\wokspace\定时\TimeWater\TimeWater\obj\Debug\TimeWater.csprojResolveAssemblyReference.cache
+F:\wokspace\定时\TimeWater\TimeWater\obj\Debug\TimeWater.Form1.resources
+F:\wokspace\定时\TimeWater\TimeWater\obj\Debug\TimeWater.Properties.Resources.resources
+F:\wokspace\定时\TimeWater\TimeWater\obj\Debug\TimeWater.csproj.GenerateResource.Cache
+F:\wokspace\定时\TimeWater\TimeWater\obj\Debug\TimeWater.exe
+F:\wokspace\定时\TimeWater\TimeWater\obj\Debug\TimeWater.pdb
+F:\wokspace\定时\TimeWater\TimeWater\obj\Debug\TimeWater.Form2.resources
