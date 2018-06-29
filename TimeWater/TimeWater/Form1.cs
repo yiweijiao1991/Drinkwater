@@ -112,6 +112,7 @@ namespace TimeWater
         {
             this.Hide();
             this.notifyIcon1.Visible = true;
+            notifyIcon1.ShowBalloonTip(5000, "小雪糕", "我在这里！", ToolTipIcon.Info);
         }
     }
 }
